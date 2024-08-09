@@ -4,8 +4,8 @@
     "name": "modular-curriculum-all-courses"
   },
   "repo": {
-    "friendlyName": "[tktk Module Name]",
-    "name": "tktk",
+    "friendlyName": "Cleaning and Combining Data With Pandas",
+    "name": "cleaning-and-combining-data-with-pandas",
     "type": "Lesson"
   },
   "courses": [
@@ -20,21 +20,95 @@
           "videoUrl": ""
         },
         {
-          "friendlyName": "Concepts",
-          "dirName": "concepts",
+          "friendlyName": "Intro to Cleaning and Combining Data",
+          "dirName": "intro-to-cleaning-and-combining-data",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Microlesson 01",
-          "dirName": "microlesson-01",
+          "friendlyName": "Handling Missing Data",
+          "dirName": "handling-missing-data",
           "type": "Content",
           "videoUrl": ""
         },
         {
-          "friendlyName": "Microlesson 02",
-          "dirName": "microlesson-02",
-          "type": "Level Up content",
+          "friendlyName": "Cleaning and Formatting Data",
+          "dirName": "cleaning-and-formatting-data",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Combining Data",
+          "dirName": "combining-data",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Wrap Up",
+          "dirName": "wrap-up",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false
+    },
+    {
+      "name": "pps",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Intro to Cleaning and Combining Data",
+          "dirName": "intro-to-cleaning-and-combining-data",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Handling Missing Data",
+          "dirName": "handling-missing-data",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Cleaning and Formatting Data",
+          "dirName": "cleaning-and-formatting-data",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Combining Data",
+          "dirName": "combining-data",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Wrap Up",
+          "dirName": "wrap-up",
+          "type": "Content",
           "videoUrl": ""
         }
       ],

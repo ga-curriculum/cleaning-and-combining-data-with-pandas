@@ -1,21 +1,33 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Cleaning and Combining Data With Pandas</span>
 </h1>
 
 ## About
 
 tktk Write a short but descriptive summary of the content in this module.
 
+## Suggested Agenda
+
+| Time      | Activity                                            |
+| --------- | --------------------------------------------------- |
+| 0:00–0:05 | Introduction + Intro to Cleaning and Combining Data |
+| 0:05–0:35 | Handling Missing Data                               |
+| 0:35–1:00 | Cleaning and Formatting Data                        |
+| 1:00–1:10 | Break                                               |
+| 1:10–1:55 | Combining Data                                      |
+| 1:55–2:00 | Wrapping Up, Q&A, and Exit Ticket Completion        |
+
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                          | -- | -- | Setting up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | -- | tktk skills covered                     |
-| **Total content**                                   | -- | -- |                                         |
+| Lesson                                                                                   | Skills                                                                           |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [Setup](./setup/README.md)                                                               | Setting up the development environment.                                          |
+| [Intro to Cleaning and Combining Data](./intro-to-cleaning-and-combining-data/README.md) | tktk skills covered                                                              |
+| [Handling Missing Data](./handling-missing-data/README.md)                               | tktk skills covered                                                              |
+| [Cleaning and Formatting Data](./cleaning-and-formatting-data/README.md)                 | tktk skills covered                                                              |
+| [Combining Data](./combining-data/README.md)                                             | tktk skills covered                                                              |
+| [Wrap Up](./wrap-up/README.md)                                                           | Reviewing key concepts, ensuring comprehension, and preparing for the next topic |
 
 ## References
 
@@ -25,17 +37,8 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
-🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+- Exploratory Data Analysis With Pandas
+- Data Visualization with Pandas
 
 ### Resources
 

@@ -9,24 +9,37 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
-concepts = new Template.Microlesson {
-  friendlyName = "Concepts"
-  dirName = "concepts"
+introToCleaningAndCombiningData = new Template.Microlesson {
+  friendlyName = "Intro to Cleaning and Combining Data"
+  dirName = "intro-to-cleaning-and-combining-data"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+handlingMissingData = new Template.Microlesson {
+  friendlyName = "Handling Missing Data"
+  dirName = "handling-missing-data"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+cleaningAndFormattingData = new Template.Microlesson {
+  friendlyName = "Cleaning and Formatting Data"
+  dirName = "cleaning-and-formatting-data"
   type = "Content"
   videoUrl = ""
 }
 
+combiningData = new Template.Microlesson {
+  friendlyName = "Combining Data"
+  dirName = "combining-data"
+  type = "Content"
+  videoUrl = ""
+}
+
+wrapUp = new Template.Microlesson {
+  friendlyName = "Wrap Up"
+  dirName = "wrap-up"
+  type = "Content"
+  videoUrl = ""
+}
