@@ -9,8 +9,6 @@
 | ------------------------------------ | -------- |
 | Intro to Cleaning and Combining Data | 5 min    |
 
-# Cleaning and Combining Data With Pandas
-
 ## Our Learning Goals
 
 - Use Pandas to handle missing or problematic data values.
