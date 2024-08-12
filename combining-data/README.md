@@ -39,7 +39,7 @@ This command:
 
 - Groups it by the values in `.groupby('col_a')`
 
-- And calculates the count, mean, minimum, and maximum of `.groupby('col_a')['col_b']`.
+- And calculates the count, mean, minimum, and maximum of `['col_b']`.
 
 We can also `groupby()` multiple columns to drill down further:
 
@@ -49,7 +49,7 @@ df.groupby(['first_column', 'second_column'])
 
 ## Solo Exercise: 10.3 `groupby()` Insights 15 min TKTK
 
-Use `groupby()` to segment the data from Superstore in Section 10.3.
+Use `groupby()` to segment the data from Superstore in **Section 10.3**.
 
 ![Image Placeholder](TKTK)
 
