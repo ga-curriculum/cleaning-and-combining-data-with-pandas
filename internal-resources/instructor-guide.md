@@ -17,7 +17,7 @@ In this Module students will:
 
 - Use Pandas to handle missing or problematic data values.
 - Identify appropriate cleaning strategies for specific types of data.
-- Use groupby() and JOIN statements to combine data with Pandas.
+- Use `groupby()` and JOIN statements to combine data with Pandas.
 - Create insights from data by splitting and combining data segments.
 
 ## Pre-Class Materials and Preparation
