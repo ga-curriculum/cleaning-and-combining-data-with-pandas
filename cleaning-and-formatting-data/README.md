@@ -27,7 +27,7 @@ Common data cleaning actions include:
 
 ![Image Placeholder](TKTK)
 
-> 🍎 The data sets that we receive as analysts are often very messy, but there’s no need to be fazed by them. While we can’t possibly cover every single cleaning function in this course, there are tons of resources out there about cleaning functions.
+> 💡 The data sets that we receive as analysts are often very messy, but there’s no need to be fazed by them. While we can’t possibly cover every single cleaning function in this course, there are tons of resources out there about cleaning functions.
 
 ## Modifying Series Within DataFrames
 
@@ -88,7 +88,7 @@ moment_in_time.second
 # 55
 ```
 
-> 🍎 Pandas also offers a range of methods for converting and formatting timestamps, which can be especially useful when dealing with diverse datasets from different sources.
+> 💡 Pandas also offers a range of methods for converting and formatting timestamps, which can be especially useful when dealing with diverse datasets from different sources.
 
 ## apply()
 
@@ -123,8 +123,13 @@ df.drop_duplicates(subset=['column_a', 'column_b'])
 
 > Thinking about which combination of columns constitutes a removable duplicate is a problem worth addressing during exploratory data analysis.Some combination of columns will inevitably be duplicates, so determine which exact combinations should never be shared between different rows.
 
-## Partner Exercise: 10.2 Cleaning and Formatting Data 15 min TKTK
+<br>
 
-Let's use the Superstore data set for **Section 10.2** to practice applying cleaning functions.
+<div class="activity partner-exercise">
+  <h2 class="title">3.2 Cleaning and Formatting Data</h2>
+  <span class="minutes">15 min</span>
+</div>
+
+Let's use the Superstore data set for **Section 3.2** to practice applying cleaning functions.
 
 ![Image Placeholder](TKTK)

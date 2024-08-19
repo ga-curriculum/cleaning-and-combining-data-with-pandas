@@ -3,7 +3,7 @@
   <span class="subhead">Intro to Cleaning and Combining Data</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to identify where data cleaning and combining happens in a data analytics workflow. 
+**Learning objective:** By the end of this lesson, students will be able to identify where data cleaning and combining happens in a data analytics workflow.
 
 | Lesson                               | Duration |
 | ------------------------------------ | -------- |
@@ -21,7 +21,7 @@
 
 ![Image Placeholder](TKTK)
 
-> 🍎 This lesson is simply an introduction to the topic. The suggested methods for handling missing data are by no means comprehensive solutions nor should they be considered a go-to approach for missing data. This is a big topic worthy of further study after the course has ended.
+> 💡 This lesson is simply an introduction to the topic. The suggested methods for handling missing data are by no means comprehensive solutions nor should they be considered a go-to approach for missing data. This is a big topic worthy of further study after the course has ended.
 
 ## The Data Analytics Workflow
 

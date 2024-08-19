@@ -13,7 +13,7 @@
 
 A **NULL** value is _any missing value_ in your data. One common way of conceptualizing a NULL value is thinking of it as **"empty"** — not zero `0`, not the word `"NULL"`, but simply _empty_.
 
-> 🍎 A **NULL** value is a common data issue.
+> 💡 A **NULL** value is a common data issue.
 
 ![Image Placeholder](TKTK)
 
@@ -58,10 +58,15 @@ Typically, we’re most interested in knowing **_why_** we are missing data. Onc
 | **Replace specific values**       | You can replace a value or regex pattern with something else, which can help standardize data sets      | `df.replace("Illinois", "IL")` <br> `# replaces all appearances of "Illinois" with the abbreviation "IL"` |
 | **Fill with interpolated values** | Pandas will automatically calculate missing values based on linear calculations                         | `# given [0,1,NA,3] as a series...` <br> `df['sales_total'].interpolate()` <br> `# results in [0,1,2,3] ` |
 
-> 🍎 Note that the examples provide both Series and DataFrame usages of these methods.
+> 💡 Note that the examples provide both Series and DataFrame usages of these methods.
 
-## Guided Walk-Through: 10.1 Identifying Missing Data 20 min TKTK
+<br>
 
-Let's use the "Orders" table from Superstore to work with missing data in Section 10.1 of the workbook.
+<div class="activity guided-walkthrough">
+  <h2 class="title">3.1 Identifying Missing Data</h2>
+  <span class="minutes">20 min</span>
+</div>
+
+Let's use the "Orders" table from Superstore to work with missing data in **Section 3.1** of the workbook.
 
 ![Image Placeholder](TKTK)

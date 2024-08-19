@@ -47,9 +47,14 @@ We can also `groupby()` multiple columns to drill down further:
 df.groupby(['first_column', 'second_column'])
 ```
 
-## Solo Exercise: 10.3 `groupby()` Insights 15 min TKTK
+<br>
 
-Use `groupby()` to segment the data from Superstore in **Section 10.3**.
+<div class="activity solo-exercise">
+  <h2 class="title">3.3 <code>groupby()</code> Insights</h2>
+  <span class="minutes">15 min</span>
+</div>
+
+Use `groupby()` to segment the data from Superstore in **Section 3.3**.
 
 ![Image Placeholder](TKTK)
 
@@ -65,7 +70,7 @@ df_with_more_rows = pd.concat([df1, df2])
 df_with_more_columns = pd.concat([df1, df2], axis=1)
 ```
 
-> 🍎 In this example, we are working with Pandas DataFrames created directly from lists, which is a slightly different approach compared to reading data from a `.csv` file. The columns parameter specifies the column names, so both DataFrames have columns labeled 'letter' and 'number'.
+> 💡 In this example, we are working with Pandas DataFrames created directly from lists, which is a slightly different approach compared to reading data from a `.csv` file. The columns parameter specifies the column names, so both DataFrames have columns labeled 'letter' and 'number'.
 
 ## What Is JOINing?
 
@@ -83,7 +88,7 @@ JOINing allows us to:
 
 JOINing is fundamental to proper data architecture, and we'll get to do it in Pandas.
 
-> 🍎 SQL is used for querying and managing databases, similar to how Python handles data manipulation with libraries like Pandas. While SQL is primarily focused on retrieving and managing structured data within databases, Python offers more flexibility for performing complex data manipulations and transformations across various data formats.
+> 💡 SQL is used for querying and managing databases, similar to how Python handles data manipulation with libraries like Pandas. While SQL is primarily focused on retrieving and managing structured data within databases, Python offers more flexibility for performing complex data manipulations and transformations across various data formats.
 
 ## JOINs
 
@@ -156,8 +161,13 @@ As you may have guessed, the first two parameters are the DataFrames to JOIN. Th
 
 > We provide an example of this in the first exercise in the workbook, so you will have a more concrete example to start working from.
 
-## Group Exercise: 10.4 JOINing Data Sets 15 min TKTK
+<br>
 
-Let’s practice JOINing stock data and the Superstore data in **Section 10.4** of the workbook.
+<div class="activity group-exercise">
+  <h2 class="title">3.4 JOINing Data Sets</h2>
+  <span class="minutes">15 min</span>
+</div>
+
+Let’s practice JOINing stock data and the Superstore data in **Section 3.4** of the workbook.
 
 ![Image Placeholder](TKTK)
