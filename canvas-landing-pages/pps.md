@@ -9,14 +9,14 @@ This module focuses on essential data manipulation techniques using Pandas. It b
 
 ## Content
 
-| Lesson                                                                                   | Skills                                                                                     |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Lesson                                                                                    | Skills                                                                                     |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | [Setup](../setup/README.md)                                                               | Setting up the development environment.                                                    |
 | [Intro to Cleaning and Combining Data](../intro-to-cleaning-and-combining-data/README.md) | Understanding the basics of data cleaning, including identifying and handling NULL values. |
 | [Handling Missing Data](../handling-missing-data/README.md)                               | Techniques for detecting and managing missing data in datasets.                            |
 | [Cleaning and Formatting Data](../cleaning-and-formatting-data/README.md)                 | Reformatting dates, removing duplicates, and preparing data for analysis.                  |
 | [Combining Data](../combining-data/README.md)                                             | Using methods like `groupby()`, `concat()`, and `merge()` to combine and aggregate data.   |
-| [Wrap Up](../wrap-up/README.md)                                                           | Reviewing key concepts, ensuring comprehension, and preparing for the next topic.          |
+| [Wrap Up](../wrap-up/README.md)                                                           | Reviewing key concepts and preparing for the next module.                                  |
 
 ## References
 
