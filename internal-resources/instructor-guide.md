@@ -43,7 +43,7 @@ As you plan for your lesson:
 
 ## Jupyter Notebook
 
-The exercises referenced in this lesson can be found in the [Python Workbooks Repo](#).
+The exercises referenced in this lesson can be found in the [Python Data Exercises Repo](https://git.generalassemb.ly/modular-curriculum-all-courses/python-data-exercises).
 
 Our first few lessons begin by reviewing the notebook as the same material was covered in the pre-work.
 
