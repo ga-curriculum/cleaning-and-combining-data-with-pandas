@@ -25,7 +25,7 @@ Common data cleaning actions include:
 
 - **Concatenating or separating** data.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/gears.png" alt="Gears Image" style="width: 300px; height: auto;">
 
 > 💡 The data sets that we receive as analysts are often very messy, but there’s no need to be fazed by them. While we can’t possibly cover every single cleaning function in this course, there are tons of resources out there about cleaning functions.
 
@@ -132,4 +132,4 @@ df.drop_duplicates(subset=['column_a', 'column_b'])
 
 Let's use the Superstore data set for **Section 3.2** to practice applying cleaning functions.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/shopping-cart.png" alt="Shopping Cart Image" style="width: 300px; height: auto;">

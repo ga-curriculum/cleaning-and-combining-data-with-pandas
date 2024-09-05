@@ -19,7 +19,7 @@
 
 - Create insights from data by splitting and combining data segments.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/learning-objectives.png" alt="Clipboard Image" style="width: 300px; height: auto;">
 
 > 💡 This lesson is simply an introduction to the topic. The suggested methods for handling missing data are by no means comprehensive solutions nor should they be considered a go-to approach for missing data. This is a big topic worthy of further study after the course has ended.
 
@@ -28,4 +28,4 @@
 - **Wrangle/Prepare:** Clean and prepare relevant data.
 - **Analyze:** Structure, comprehend, and visualize data.
 
-![Image Placeholder](./assets/workflow.png)
+<img src="./assets/workflow.png" alt="The Data Analytics Workflow - Prepare + Analyze" style="width: 500px; height: auto;">

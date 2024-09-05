@@ -18,4 +18,4 @@
 
 Please take the time to complete any **Exit Ticket Surveys** provided by your instructional team.
 
-![Exit Tickets](./assets/exit-ticket.png)
+<img src="./assets/exit-ticket.png" alt="Exit Ticket" style="width: 500px; height: auto;">

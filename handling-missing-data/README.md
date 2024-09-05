@@ -15,7 +15,7 @@ A **NULL** value is _any missing value_ in your data. One common way of conceptu
 
 > 💡 A **NULL** value is a common data issue.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/magnifying-glass.png" alt="Magnifying Glass Image" style="width: 300px; height: auto;">
 
 ## Identifying Missing Data
 
@@ -69,4 +69,4 @@ Typically, we’re most interested in knowing **_why_** we are missing data. Onc
 
 Let's use the "Orders" table from Superstore to work with missing data in **Section 3.1** of the workbook.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/shopping-cart.png" alt="Shopping Cart Image" style="width: 300px; height: auto;">

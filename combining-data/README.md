@@ -56,7 +56,7 @@ df.groupby(['first_column', 'second_column'])
 
 Use `groupby()` to segment the data from Superstore in **Section 3.3**.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/shopping-cart.png" alt="Shopping Cart Image" style="width: 300px; height: auto;">
 
 ## Concatenate
 
@@ -141,7 +141,7 @@ There are four types of JOINs; each has its own use case. You’ll decide which 
 
 <br>
 
-![Image Placeholder](./assets/joins.png)
+<img src="./assets/joins.png" alt="Types of Joins Image" style="width: 800px; height: auto;">
 
 For now, keep in mind that:
 
@@ -170,4 +170,4 @@ As you may have guessed, the first two parameters are the DataFrames to JOIN. Th
 
 Let’s practice JOINing stock data and the Superstore data in **Section 3.4** of the workbook.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets//fist-bump.png" alt="Fist Bump Image" style="width: 500px; height: auto;">
