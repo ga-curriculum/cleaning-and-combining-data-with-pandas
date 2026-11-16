@@ -6,7 +6,7 @@
 
 ## Setup
 
-The practice exercises for this lesson can be found in the `03. Cleaning and Combining Data with Pandas.ipynb` file of the [Python Data Exercises](https://git.generalassemb.ly/modular-curriculum-all-courses/python-data-exercises) repository.
+The practice exercises for this lesson can be found in the `03. Cleaning and Combining Data with Pandas.ipynb` file of the [Python Data Exercises](https://github.com/ga-curriculum/python-data-exercises) repository.
 
 ### Prepare Your Environment
 
